@@ -8,11 +8,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#Projects
+#Projects et autres fichiers
 pendu/
 juste_prix/
 exercices_listes/
-
+exercices_str/
+test.py
+007_exceptions/
+008_modules/
 # C extensions
 *.so
 
@@ -183,3 +186,4 @@ cython_debug/
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
+test.py
