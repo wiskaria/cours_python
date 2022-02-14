@@ -13,6 +13,7 @@ pendu/
 juste_prix/
 exercices_listes/
 exercices_str/
+exercices_exceptions/
 test.py
 007_exceptions/
 008_modules/
