@@ -14,9 +14,11 @@ juste_prix/
 exercices_listes/
 exercices_str/
 exercices_exceptions/
+exercices_fonctions/
 test.py
 007_exceptions/
 008_modules/
+dog.jpg
 # C extensions
 *.so
 
