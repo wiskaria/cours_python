@@ -16,7 +16,8 @@ exercices_exceptions/
 exercices_fonctions/
 test.py
 007_exceptions/
-008_modules/
+008_fonctions/
+009_modules/
 dog.jpg
 # C extensions
 *.so
