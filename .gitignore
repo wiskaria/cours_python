@@ -10,11 +10,10 @@ __pycache__/
 
 #Projects et autres fichiers
 pendu/
-exercices_fonctions/
 exercices_fichiers/
 test.py
-008_fonctions/
-009_modules/
+009_fonctions/
+011_modules/
 dog.jpg
 # C extensions
 *.so
