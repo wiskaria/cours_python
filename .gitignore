@@ -10,9 +10,7 @@ __pycache__/
 
 #Projects et autres fichiers
 pendu/
-exercices_fichiers/
 test.py
-009_fonctions/
 011_modules/
 dog.jpg
 # C extensions
