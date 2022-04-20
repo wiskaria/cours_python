@@ -11,7 +11,7 @@ __pycache__/
 #Projects et autres fichiers
 pendu/
 test.py
-011_modules/
+012_modules/
 dog.jpg
 # C extensions
 *.so
